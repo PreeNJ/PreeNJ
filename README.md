@@ -5,7 +5,7 @@
 A Software Engineer advancing into Ethical Hacking and cybersecurity. I combine technical expertise with real-world experience to build secure, impactful solutions.
 
 **💻 Tech Stack:** 
-HTML5, CSS3, Tailwind CSS, JavaScript, Python, Django, REST APIs, Database Management
+JavaScript, Python, Django, REST APIs, HTML5, CSS3, Tailwind CSS, Database Management
 
 **Current Focus:** 
 Penetration testing, vulnerability assessment, network security, and cybersecurity best practices
